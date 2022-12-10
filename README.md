@@ -23,4 +23,5 @@ You are allowed to make modifications to the program(s), but you must notify me 
 
 - Open an 'Issue' on this program.
 
-- DM me on Discord or Twitter: @svenwlive#6968 ; @svenwlive
+- DM me on Discord: @svenwlive#6968
+- DM me on Twitter: @svenwlive
