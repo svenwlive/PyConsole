@@ -13,8 +13,9 @@ A console-kind Python3 program. Mostly text-based.
 
 ## What you can do with this program
 
-- You can enter the Python3 _and_ Python2 interpreters
+- You can enter the Python3 _and_ Python2 **(linux only)** interpreters
 - You can request for the current time and date **(separate commands)**
+- You can do calculations
 
 ## To run the program
 
